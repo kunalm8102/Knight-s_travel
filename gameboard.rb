@@ -1,5 +1,4 @@
 require_relative "knight.rb"
-
 class Gameboard
 	attr_accessor :pieces , :positions , :knight
 
